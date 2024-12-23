@@ -1,0 +1,1 @@
+proc myproc {a b} {if {[string compare $a $b] == 0} {return 1} {return 0}} 
